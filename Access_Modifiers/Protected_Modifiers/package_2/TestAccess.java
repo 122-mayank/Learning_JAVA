@@ -1,6 +1,6 @@
-package package_2;
+package Protected_Modifiers.package_2;
 
-import package_1.Student;
+import Protected_Modifiers.package_1.Student;
 
 class TestAccess extends Student {
 

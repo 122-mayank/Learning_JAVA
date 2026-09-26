@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        ".",
+        "Access_Modifiers",
+        "Encapsulation"
+    ],
+    "java.project.referencedLibraries": [],
+    "java.debug.settings.onBuildFailureProceed": true
+}

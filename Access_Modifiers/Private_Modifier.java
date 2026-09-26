@@ -1,4 +1,5 @@
-public class Private{
+public class Private_Modifier
+{
      public static void main(String[] args) {
         Employee e = new Employee();
         e.setName("Mayank");
@@ -10,10 +11,10 @@ public class Private{
 
     private String name;
 
-    void setName(String name){
+    public void setName(String name){
         this.name = name;
     }
-     void showRollNo(){
+     public void showRollNo(){
          System.out.println("Name: "+name);
     }
 }

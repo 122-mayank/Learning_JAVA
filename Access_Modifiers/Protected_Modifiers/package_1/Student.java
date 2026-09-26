@@ -1,11 +1,11 @@
-package package_1;
+package Protected_Modifiers.package_1;
 
 public class Student {
 
-    protected String college = "IIT Kanpur";
+    public String college = "IIT Kanpur";
     int age = 21;
 
-    protected void showCollege() {
+    public void showCollege() {
         System.out.println("College " + college);
     }
 
